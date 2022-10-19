@@ -7,7 +7,7 @@ Thank you for installing my game.
 
 To run game:
 
-Download the zip with all the files in it. Extract the zip and move the "This Is Mars" folder to "C:\", the file directory should then be "C:\This Is Mars", if the directory is like that the exe will not work. You can drag the "This Is Mars.EXE" to wherever you would like. If you want to edit anything right open the "mars game" folder and right click marsgame.bat (all the code is there) and click edit. Once you open the zip there will be about 20 or so files. Do not touch them unless you know what you are doing. Only touch start.bat to start the game.
+Download the zip with all the files in it. Extract the zip and move the "This-Is-Mars-main" folder to "C:\", the file directory should then be "C:\This Is Mars", if the directory is like that the exe will not work. You can drag the "This Is Mars.EXE" to wherever you would like. If you want to edit anything right open the "mars game" folder and right click marsgame.bat (all the code is there) and click edit. Once you open the zip there will be about 20 or so files. Do not touch them unless you know what you are doing. Only touch start.bat to start the game.
 
 Bugs:
 CMD gets weirded out if there is no other option for certain questions. For example some questions have specific answers like "Bob" which can be used select certain items. If "Enter" is pressed it may cause CMD to crash since it is a response that the script is not forseen to handle.  
