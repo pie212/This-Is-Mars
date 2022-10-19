@@ -1,1 +1,1 @@
-start /max marsgame.bat
+start /max MarsGame.bat
