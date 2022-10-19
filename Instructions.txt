@@ -1,0 +1,19 @@
+Hello! 
+Thank you for installing my game.
+
+To run game:
+Download folder.Just run the start folder you see near this text document. If you want to edit anything open the "mars game folder". Once the folder is opend there will be about 20 or so files. Do not touch them unless you know what you are doing.
+
+Bugs:
+CMD gets weirded out if there is no other option for certain questions. For example some questions have specific answers like "Bob" which can be used select certain items. If "Enter" is pressed it may cause CMD to crash since it is a response that the script is not forseen to handle.  
+
+Important:
+Since sound files arent using mp3 formats if you close cmd before the sound stops it will continue playing. To close the sound file go to task manager --> more details --> wscript.exe Microsoft ® Windows Based Script Host (may also be under the dropdown of CMD) and then click "end task"
+
+
+
+
+
+BUGs n shit
+
+- when fixing something and nothing is broken, if 1,2,3 is pressed even when there is nothing broken... it will still take supplies so just press q

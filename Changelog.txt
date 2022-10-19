@@ -1,0 +1,25 @@
+Version 1.0
+- Added a save system, No faults detected yet. CMD will crash if no game has been saved before.
+- Added an achievement system, It has a few flaws in the log that stores it. It gets weird with the saves and may overwrite other achievements. I have no furthur will to finish that unless I have time
+- Added changelog
+- Cleaned up UI a bit
+- Added a Drill
+- Moved 3D printer to build tab
+- Maybe more to come later
+- Astronaut Jeffery has use in farm
+- Astronaut Bob has use in using the drill (normal 0-200Kg ore, with Bob 0-400Kg ore)
+Version 1.1
+- Medical station
+- Health system
+- You can take damage while exploring
+- Save system works better now
+
+Version 1.2
+- Made it so multiple disasters can happen
+- Save slots
+ TO DO LIST
+These are things I may add if given time and intrest.
+- Farming system with farming tab to so you can manage a farm
+- Add more buildable items
+- Add more to do
+- Electricity
