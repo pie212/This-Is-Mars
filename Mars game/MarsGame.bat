@@ -254,7 +254,7 @@ Echo MISSION 1 (FIRST CONTACT)
 timeout /t 1 >nul
 Echo HELLO ASTRONAUT. THIS WILL BE YOUR FIRST TRIP TO MARS!
 timeout /t 2 >nul 
-Echo YOU WILL BE TASKED WITH BUILING AND MAINTAING A HABITAT AND COLLECTING DATA SAMPLES FOR OUR REASERCH TEAM. 
+Echo YOU WILL BE TASKED WITH BUILDING AND MAINTAING A HABITAT AND COLLECTING DATA SAMPLES FOR OUR REASEARCH TEAM. 
 timeout /t 2 >nul
 Echo YOU WILL STAY UP FOR 1 MONTH, THEN A RETURN SHIP WILL BE ABLE TO GET YOU.
 timeout /t 2 >nul
@@ -318,7 +318,7 @@ goto supplies
 
 :supplies
 CLS
-Echo ##Important: Values are in kg. Do not type the kg. Type 200 not 200kg##
+Echo ##Important: Values are in kg. Do not type the kg. Type 200 not 200kg (you need to bring food, water, and supplies##
 If %Difficulty% == Easy set /a weight=5000 
 If %Difficulty% == Normal set /a weight=2000
 If %Difficulty% == Hard set /a weight=500
