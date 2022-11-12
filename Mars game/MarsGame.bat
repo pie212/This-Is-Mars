@@ -41,6 +41,7 @@ set /p s=
 if "%s%" EQU "1" goto load1
 if "%s%" EQU "2" goto load2
 if "%s%" EQU "3" goto load3
+if "%s%" EQU "q" goto Menu2
 
 :load1
 < SaveSlot1.txt ( 
